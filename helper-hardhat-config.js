@@ -9,7 +9,7 @@ const networkConfig = {
     ethUsdPriceFeed: "0x9326BFA02ADD2366b30bacB125260Af641031331",
   },
 }
-const INITIAL_SUPPLY = "1000000000000000000000000"
+const INITIAL_SUPPLY = "50000000000000000000"
 
 const developmentChains = ["hardhat", "localhost"]
 

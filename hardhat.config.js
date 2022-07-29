@@ -107,6 +107,9 @@ module.exports = {
     user1: {
       default: 1,
     },
+    user2: {
+      default: 1,
+    },
   },
   solidity: {
     compilers: [
